@@ -34,7 +34,7 @@ export default function Contact() {
             </div>
 
             <a 
-              href="/My_Resume_2.pdf" // Make sure this path matches the name of your resume file in the public folder
+              href="/My_Resume_3.pdf" // Updated this line with the correct file name
               download 
               className="bg-blue-600 text-white font-bold py-3 px-8 rounded-full text-lg hover:bg-blue-700 transition-colors shadow-lg"
             >
