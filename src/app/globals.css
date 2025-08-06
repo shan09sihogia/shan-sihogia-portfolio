@@ -1,0 +1,13 @@
+/* src/app/globals.css */
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Any other global styles you want to add go here */
+
+/* For dark mode, your main background color is set in the body tag in layout.tsx */
+/* html.dark {
+  background-color: #111827;
+  color: #f3f4f6;
+} */
