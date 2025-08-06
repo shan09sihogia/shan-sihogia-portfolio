@@ -9,7 +9,7 @@ export const projects = [
     githubUrl: "https://github.com/shan09sihogia/multi_agent_api",
     liveUrl: "https://ai-agent-frontend-rosy.vercel.app/",
     caseStudyUrl: "#",
-    video: "/multi-agent-demo-compressed.mp4",
+    video: "https://monumental-tanuki-442c1f.netlify.app/multi-agent-demo-compressed.mp4",
   },
   {
     id: 2,
@@ -18,8 +18,8 @@ export const projects = [
     features: ["..."],
     stack: ["React.js", "Node.js", "Socket.IO", "TailwindCSS"],
     githubUrl: "https://github.com/shan09sihogia/collaborative-whiteboard",
-    liveUrl: "https://collaborative-whiteboard-jet.vercel.app/", // Updated live demo link
+    liveUrl: "https://collaborative-whiteboard-jet.vercel.app/",
     caseStudyUrl: "#",
-    video: "/whiteboard-demo-compressed.mp4",
+    video: "https://monumental-tanuki-442c1f.netlify.app/whiteboard-demo-compressed.mp4",
   }
 ];
